@@ -2,7 +2,7 @@ We have been exploring the use of voice spectra collected from people with Parki
 
 Iyer A, Kemp A, Rahmatallah Y, Pillai L, Glover A, Prior F, Larson-Prior L, Virmani T. A machine learning method to process voice samples for identification of Parkinson’s disease. Scientific reports. 2023 Nov 23;13(1):20615.
 
-Spectra are produced from voice recordings of study participants who enunciate a sustained vowel /a/. These recordings are preprocessed to produce spectra images using the R packages available in this repository:
+Spectra are produced from voice recordings of study participants who enunciate a sustained vowel /a/. These recordings are preprocessed to produce spectra images using the R code available in this repository:
 1.	Create_LineaSpectrograms_UAMSdataset.R: Read WAV files, create linear-scale spectrograms, save images in jpg file format.
 2.	Create_LineaSpectrograms_mPowerdataset.R: Read m4a files, convert to WAV files, create linear-scale spectrograms, save images in jpg file format.
 3.	Create_MelSpectrograms_UAMSdataset.R: Read WAV files, create mel-scale spectrograms, save images in jpg file format.
