@@ -17,5 +17,3 @@ Spectra images are analyzed using the Inception_pd_detection_voice Jupyter noteb
  
 A Jupyter notebook containing the code used to extract acoustic features using Parselmouth a package that runs Praat in Python, PD_Parselmouth_mPower is also included. Praat can be found here:  PraatScripts on GitHub.  Our notebook measures pitch, standard deviation of pitch, harmonics-to-noise ratio (HNR), jitter, shimmer, and formants from the original .wav files. 
 (https://github.com/drfeinberg/PraatScripts)
-
-Finally, at the request of readers of our papers we have included pretrained models based on Mel scale spectra: UAMSMeldata2.h5 which was trained on the data published on figshare and mPowerMelData2Best.h5 which was trained on mPower data.
