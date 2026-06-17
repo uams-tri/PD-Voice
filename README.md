@@ -1,6 +1,4 @@
-We have been exploring the use of voice spectra collected from people with Parkinson’s Disease (PwPD) and healthy controls (HC) to correctly diagnose PwPD.  This work is described in the following Nature Scientific Reports papers:
-
-Iyer A, Kemp A, Rahmatallah Y, Pillai L, Glover A, Prior F, Larson-Prior L, Virmani T. A machine learning method to process voice samples for identification of Parkinson’s disease. Scientific reports. 2023 Nov 23;13(1):20615.
+We have been exploring the use of voice spectra collected from people with Parkinson’s Disease (PwPD) and healthy controls (HC) to correctly diagnose PwPD.  This work is described in the following Nature Scientific Reports paper:
 
 Rahmatallah Y, Kemp AS, Iyer A, Pillai L, Larson-Prior LJ, Virmani T, Prior F. Pre-trained convolutional neural networks identify Parkinson’s disease from spectrogram images of voice samples. Scientific Reports. 2025 Mar 1;15(1):7337.
 
